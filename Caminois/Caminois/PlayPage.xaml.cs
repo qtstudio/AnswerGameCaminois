@@ -24,7 +24,7 @@ namespace Caminois
             var resource = Application.GetResourceStream(new Uri("Assets/Question/question.txt", UriKind.Relative));
             StreamReader streamReader = new StreamReader(resource.Stream);
             string data = streamReader.ReadToEnd();
-            Root root = JsonConvert.DeserializeObject<Root>(data);
+           // Root root = JsonConvert.DeserializeObject<Root>(data);
            
         }
     }
