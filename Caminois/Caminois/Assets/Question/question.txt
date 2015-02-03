@@ -1,0 +1,20 @@
+﻿{
+  "question": [
+    {
+      "title": "a",
+      "anwserA": "1",
+      "anwserB": "2",
+      "anwserC": "3",
+	  "anwserD": "4",
+      "anwser": "A"
+    },
+    {
+      "title": "a",
+      "anwserA": "1",
+      "anwserB": "2",
+      "anwserC": "3",
+	  "anwserD": "4",
+      "anwser": "A"
+    }
+  ]
+}

@@ -1,12 +1,21 @@
-﻿<xapCache source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Caminois_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2/3/2015 8:19:14 PM">
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\obj\Debug\Caminois.dll" archivePath="Caminois.dll" lastWriteTime="2/3/2015 8:19:13 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2/3/2015 8:19:05 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2/3/2015 8:19:05 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2/3/2015 8:19:05 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2/3/2015 8:19:05 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2/3/2015 8:19:05 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/3/2015 8:19:13 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2/3/2015 8:19:05 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2/3/2015 8:19:05 PM" />
-  <file source="C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2/3/2015 8:19:14 PM" />
+﻿<xapCache source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Bin\Debug\Caminois_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2/3/2015 9:21:36 PM">
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\obj\Debug\Caminois.dll" archivePath="Caminois.dll" lastWriteTime="2/3/2015 9:21:35 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2/3/2015 8:19:05 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Assets\Play.jpg" archivePath="Assets\Play.jpg" lastWriteTime="2/3/2015 8:50:20 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Assets\Question\question.txt" archivePath="Assets\Question\question.txt" lastWriteTime="2/3/2015 8:59:43 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2/3/2015 8:19:05 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2/3/2015 8:19:05 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2/3/2015 8:19:05 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2/3/2015 8:19:05 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/3/2015 9:21:36 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2/3/2015 8:19:05 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2/3/2015 8:19:05 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="2/3/2015 9:20:49 PM" />
+  <file source="C:\Program Files (x86)\Telerik\UI for Windows Phone 8 Q2 2014\Binaries\WindowsPhone\Telerik.Windows.Controls.Primitives.dll" archivePath="Telerik.Windows.Controls.Primitives.dll" lastWriteTime="6/18/2014 3:13:04 AM" />
+  <file source="C:\Program Files (x86)\Telerik\UI for Windows Phone 8 Q2 2014\Binaries\WindowsPhone\Telerik.Windows.Core.dll" archivePath="Telerik.Windows.Core.dll" lastWriteTime="6/18/2014 3:13:00 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="9/25/2012 3:41:02 PM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="2/3/2015 9:20:49 PM" />
+  <file source="C:\Program Files (x86)\Telerik\UI for Windows Phone 8 Q2 2014\Binaries\WindowsPhone\Telerik.Windows.Controls.Primitives.xml" archivePath="Telerik.Windows.Controls.Primitives.xml" lastWriteTime="6/18/2014 3:13:04 AM" />
+  <file source="C:\Program Files (x86)\Telerik\UI for Windows Phone 8 Q2 2014\Binaries\WindowsPhone\Telerik.Windows.Core.xml" archivePath="Telerik.Windows.Core.xml" lastWriteTime="6/18/2014 3:13:00 AM" />
+  <file source="C:\Users\nvtan_000\Source\Repos\AnswerGameCaminois\Caminois\Caminois\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2/3/2015 8:19:14 PM" />
 </xapCache>

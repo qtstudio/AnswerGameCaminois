@@ -20,5 +20,10 @@ namespace Caminois
         {
             InitializeComponent();
         }
+
+        private void BtnPlay_OnTap(object sender, GestureEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/PlayPage.xaml", UriKind.Relative));
+        }
     }
 }
