@@ -1,0 +1,14 @@
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Caminois.dll
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Caminois.pdb
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\AppManifest.xaml
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\Bin\Debug\Caminois_Debug_AnyCPU.xap
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\obj\Debug\Caminois.dll
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\obj\Debug\Caminois.pdb
+C:\Users\nvtan_000\Desktop\Caminois\Caminois\Caminois\obj\Debug\XapCacheFile.xml
